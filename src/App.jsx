@@ -11,7 +11,7 @@ function App() {
       Welcome to the Mighty Miyagi Meme Machine!
     </h1>
     <br />
-<img className='object-none object-center' src="miyagiyes.gif" alt="yes" />
+<img className='object-none object-center' src="miyagiyes.gif" alt="yes" id='miyagi' />
 <br />
 <br />
 <button className='rounded-full'>Start</button>
