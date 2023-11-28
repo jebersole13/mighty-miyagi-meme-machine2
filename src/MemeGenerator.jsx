@@ -52,9 +52,9 @@ handleSubmit = event => {
 render() { 
 	return ( 
 	<div> 
-		// Controlled form 
+		
 		<form className="meme-form" onSubmit={this.handleSubmit}> 
-		// Input field to get First text 
+		
 		<input 
 			placeholder="Enter Text"
 			type="text"
@@ -62,7 +62,7 @@ render() {
 			name="topText"
 			onChange={this.handleChange} 
 		/> 
-		// Input field to get Lsst text 
+	
 		<input 
 			placeholder="Enter Text"
 			type="text"
@@ -70,7 +70,7 @@ render() {
 			name="bottomText"
 			onChange={this.handleChange} 
 		/> 
-		// Button to generate meme 
+		
 		<button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Generate</button> 
 		</form> 
 
