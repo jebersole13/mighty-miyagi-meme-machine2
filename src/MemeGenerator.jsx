@@ -76,7 +76,7 @@ render() {
 
 		<br /> 
 		<div className="meme"> 
-		// Only show the below elements when the image is ready to be displayed 
+
 		{this.state.randomImg === "" ? "" : 
 			<img src={this.state.randomImg} alt="meme" />} 
 		{this.state.randomImg === "" ? "" : 
