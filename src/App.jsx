@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-      <h1 className="text-blue-800 text-9xl ">
+      <h1 className="text-white-800 text-9xl ">
       Welcome to the Mighty Miyagi Meme Machine!
     </h1>
     <h3>Your destination for things Miygai fact and fictional</h3>
