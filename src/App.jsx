@@ -14,7 +14,7 @@ function App() {
 <img className='object-none object-center' src="miyagiyes.gif" alt="yes" id='miyagi' />
 <br />
 <br />
-<button className='rounded-full'>Start</button>
+<button className='rounded-full shadow hover:shadow-lg'>Start</button>
 
       </div>
      
