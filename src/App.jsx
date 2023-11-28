@@ -17,7 +17,7 @@ function App() {
 <br />
 <br />
 <button className='rounded-full shadow hover:shadow-lg'>Start</button>
-
+<MemeGenerator/>
       </div>
      
     </>

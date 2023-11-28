@@ -71,7 +71,7 @@ render() {
 			onChange={this.handleChange} 
 		/> 
 		// Button to generate meme 
-		<button>Generate</button> 
+		<button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>Generate</button> 
 		</form> 
 
 		<br /> 
