@@ -11,7 +11,8 @@ function App() {
       Welcome to the Mighty Miyagi Meme Machine!
     </h1>
     <br />
-<img className='object-none object-center' src="miyagiyes.gif" alt="yes" id='miyagi' />
+<img className=' float-left' src="miyagiyes.gif" alt="yes" id='miyagi' /> 
+<img className='float-right' src="final-miyagi" alt="rm" />
 <br />
 <br />
 <button className='rounded-full shadow hover:shadow-lg'>Start</button>
