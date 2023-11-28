@@ -7,8 +7,8 @@ function MiyagiHeader(){
     <br />
     <h3>Your destination for things Miygai fact and fictional</h3>
     <br />
-<img className=' float-left h-24 w-24 overflow-hidden' src="miyagiyes.gif" alt="yes" id='miyagi' /> 
-<img className=' float-right  h-24 w-24  overflow-hidden' src="final-miyagi.jpg" alt="rm" />
+<img className=' float-left h-32 w-32 overflow-hidden' src="miyagiyes.gif" alt="yes" id='miyagi' /> 
+<img className=' float-right  h-32 w-32  overflow-hidden' src="final-miyagi.jpg" alt="rm" />
 <br />
 <br />
 </div>
