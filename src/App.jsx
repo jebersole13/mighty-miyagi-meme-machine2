@@ -9,7 +9,9 @@ function App() {
     <>
       <div>
      <MiyagiHeader/>
-
+<br />
+<br />
+<br />
 <MemeGenerator/>
       </div>
      
